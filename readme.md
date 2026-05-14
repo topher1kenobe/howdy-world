@@ -1,6 +1,6 @@
 # Howdy World
 
-**Contributors:** topher1kenobe	
+**Contributors:** topher1kenobe  
 **Tags:** admin, toolbar, greeting, fun, internationalization  
 **Requires at least:** 5.0  
 **Tested up to:** 6.7  
