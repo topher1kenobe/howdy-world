@@ -1,5 +1,5 @@
 === Howdy World ===
-Contributors:      topher
+Contributors:      topher1kenobe
 Tags:              admin, toolbar, greeting, fun, internationalization
 Donate link:       https://heropress.com/donate
 Requires at least: 5.0
